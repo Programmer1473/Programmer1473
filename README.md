@@ -1,1 +1,1 @@
-<img align="center" alt="GIF"  width="300px" src="https://raw.githubusercontent.com/Kushal997-das/Kushal997-das/master/Profile%20generator/giphy.webp" />
+<h3 align="center"> Hey, I'm Programmer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
